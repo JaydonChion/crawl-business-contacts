@@ -1,0 +1,14 @@
+{
+  "name": "scrape_google_map",
+  "version": "1.0.0",
+  "description": "Scrape google map for address and business phone number",
+  "main": "scrape_map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaydon chion",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}

@@ -14,3 +14,16 @@
 7. ** Do note that currently the program will only run for 1 minute, if want to run longer, open "scrape_map.js", go to line 11 (timeout_duration: 1 ) and change the value to higher value, e.g 5 to run for 5 minutes.
 
 8. check the saved result in data folder
+
+-------------------------------------------
+
+crawl sgpbusiness (https://www.sgpbusiness.com/)
+
+node scrape_sgpbusiness_data.js
+
+
+-------------------------------------------
+
+crawl times business directory (https://www.timesbusinessdirectory.com/)
+
+node scrape_times_business_data.js
